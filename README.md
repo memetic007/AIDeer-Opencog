@@ -9,4 +9,4 @@ Requires my zmqswitch to communicate with AIDeer-Unity3D:  https://github.com/me
 
 Requires my AIDeer-Unity3D:  https://github.com/memetic007/AIDeer-Unity3D
 
-
+Includes Project support for PyCharm Python IDE
