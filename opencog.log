@@ -1,0 +1,1594 @@
+[INFO] Using config file found at: 
+[2015-10-05 14:25:45:878] [INFO] Initializing ClassServer
+[2015-10-05 14:25:45:939] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:25:45:987] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 14:26:12:927] [INFO] Initializing ClassServer
+[2015-10-05 14:26:12:986] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:26:13:024] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 14:40:40:803] [INFO] Initializing ClassServer
+[2015-10-05 14:40:40:867] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:40:40:907] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 14:41:29:736] [INFO] Initializing ClassServer
+[2015-10-05 14:41:29:799] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:41:29:847] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 14:42:10:823] [INFO] Initializing ClassServer
+[2015-10-05 14:42:10:883] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:42:10:930] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 14:59:09:848] [INFO] Initializing ClassServer
+[2015-10-05 14:59:09:907] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 14:59:09:945] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 15:00:30:413] [INFO] Initializing ClassServer
+[2015-10-05 15:00:30:476] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 15:00:30:513] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:11:38:747] [INFO] Initializing ClassServer
+[2015-10-05 19:11:38:810] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:11:38:849] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:24:07:671] [INFO] Initializing ClassServer
+[INFO] Using config file found at: 
+[2015-10-05 19:25:06:653] [INFO] Initializing ClassServer
+[2015-10-05 19:25:06:715] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:25:06:754] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:25:57:907] [INFO] Initializing ClassServer
+[2015-10-05 19:25:58:199] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:25:58:246] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:26:48:691] [INFO] Initializing ClassServer
+[2015-10-05 19:26:48:777] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:26:48:820] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:42:13:162] [INFO] Initializing ClassServer
+[2015-10-05 19:42:13:250] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:42:13:294] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:45:48:576] [INFO] Initializing ClassServer
+[2015-10-05 19:45:48:662] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:45:48:705] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 19:48:18:386] [INFO] Initializing ClassServer
+[2015-10-05 19:48:18:476] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 19:48:18:520] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-05 20:12:46:151] [INFO] Initializing ClassServer
+[2015-10-05 20:12:46:237] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-05 20:12:46:275] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-06 14:46:40:978] [INFO] Initializing ClassServer
+[2015-10-06 14:46:41:050] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-06 14:46:41:086] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 14:54:03:459] [INFO] Initializing ClassServer
+[2015-10-07 14:54:03:546] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 14:54:03:589] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 14:55:03:417] [INFO] Initializing ClassServer
+[2015-10-07 14:55:03:507] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 14:55:03:551] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 14:58:21:392] [INFO] Initializing ClassServer
+[2015-10-07 14:58:21:482] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 14:58:21:521] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:11:45:910] [INFO] Initializing ClassServer
+[2015-10-07 15:11:45:999] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:11:46:042] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:17:25:229] [INFO] Initializing ClassServer
+[2015-10-07 15:17:25:320] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:17:25:364] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:18:19:030] [INFO] Initializing ClassServer
+[2015-10-07 15:18:19:120] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:18:19:165] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:18:57:630] [INFO] Initializing ClassServer
+[2015-10-07 15:18:57:719] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:18:57:762] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:20:09:936] [INFO] Initializing ClassServer
+[2015-10-07 15:20:10:027] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:20:10:073] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:22:08:690] [INFO] Initializing ClassServer
+[2015-10-07 15:22:08:780] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:22:08:824] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:23:46:962] [INFO] Initializing ClassServer
+[2015-10-07 15:23:47:050] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:23:47:093] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:28:19:010] [INFO] Initializing ClassServer
+[2015-10-07 15:28:19:099] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:28:19:142] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:31:00:100] [INFO] Initializing ClassServer
+[2015-10-07 15:31:00:190] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:31:00:234] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:31:35:514] [INFO] Initializing ClassServer
+[2015-10-07 15:31:35:603] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:31:35:646] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:32:36:218] [INFO] Initializing ClassServer
+[2015-10-07 15:32:36:322] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:32:36:361] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:33:02:301] [INFO] Initializing ClassServer
+[2015-10-07 15:33:02:389] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:33:02:431] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:37:40:947] [INFO] Initializing ClassServer
+[2015-10-07 15:37:41:036] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:37:41:080] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:38:29:240] [INFO] Initializing ClassServer
+[2015-10-07 15:38:29:335] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:38:29:377] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:39:02:210] [INFO] Initializing ClassServer
+[2015-10-07 15:39:02:290] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:39:02:325] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 15:44:33:715] [INFO] Initializing ClassServer
+[2015-10-07 15:44:33:806] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 15:44:33:850] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 16:17:50:912] [INFO] Initializing ClassServer
+[2015-10-07 16:17:50:995] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 16:17:51:036] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 16:39:46:774] [INFO] Initializing ClassServer
+[2015-10-07 16:39:46:866] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 16:39:46:905] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:05:34:762] [INFO] Initializing ClassServer
+[2015-10-07 17:05:34:857] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:05:34:895] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:06:10:519] [INFO] Initializing ClassServer
+[2015-10-07 17:06:10:611] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:06:10:655] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:08:00:803] [INFO] Initializing ClassServer
+[2015-10-07 17:08:00:893] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:08:00:937] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:11:08:173] [INFO] Initializing ClassServer
+[2015-10-07 17:11:08:250] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:11:08:289] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:11:43:361] [INFO] Initializing ClassServer
+[2015-10-07 17:11:43:450] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:11:43:490] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:39:33:331] [INFO] Initializing ClassServer
+[2015-10-07 17:39:33:422] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:39:33:466] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:40:13:059] [INFO] Initializing ClassServer
+[2015-10-07 17:40:13:148] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:40:13:193] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:41:08:993] [INFO] Initializing ClassServer
+[2015-10-07 17:41:09:080] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:41:09:124] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:46:14:601] [INFO] Initializing ClassServer
+[2015-10-07 17:46:14:688] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:46:14:731] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 17:54:54:493] [INFO] Initializing ClassServer
+[2015-10-07 17:54:54:577] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 17:54:54:613] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:11:44:595] [INFO] Initializing ClassServer
+[2015-10-07 18:11:44:686] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:11:44:730] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:14:50:019] [INFO] Initializing ClassServer
+[2015-10-07 18:14:50:099] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:14:50:136] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:17:08:623] [INFO] Initializing ClassServer
+[2015-10-07 18:17:08:714] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:17:08:759] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:19:16:594] [INFO] Initializing ClassServer
+[2015-10-07 18:19:16:686] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:19:16:723] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:21:14:196] [INFO] Initializing ClassServer
+[2015-10-07 18:21:14:279] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:21:14:321] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:24:24:136] [INFO] Initializing ClassServer
+[2015-10-07 18:24:24:205] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:24:24:242] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:33:35:585] [INFO] Initializing ClassServer
+[2015-10-07 18:33:35:677] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:33:35:717] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:33:57:449] [INFO] Initializing ClassServer
+[2015-10-07 18:33:57:503] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:33:57:534] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 18:54:58:336] [INFO] Initializing ClassServer
+[2015-10-07 18:54:58:427] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 18:54:58:467] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 19:07:43:040] [INFO] Initializing ClassServer
+[2015-10-07 19:07:43:132] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 19:07:43:171] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 19:11:16:476] [INFO] Initializing ClassServer
+[2015-10-07 19:11:16:568] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 19:11:16:612] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 19:14:38:429] [INFO] Initializing ClassServer
+[2015-10-07 19:14:38:519] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 19:14:38:562] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 19:20:38:757] [INFO] Initializing ClassServer
+[2015-10-07 19:20:38:847] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 19:20:38:891] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-07 19:22:21:033] [INFO] Initializing ClassServer
+[2015-10-07 19:22:21:122] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-07 19:22:21:166] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 11:17:18:292] [INFO] Initializing ClassServer
+[2015-10-08 11:17:18:382] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 11:17:18:426] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 11:34:20:029] [INFO] Initializing ClassServer
+[2015-10-08 11:34:20:109] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 11:34:20:150] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 11:38:41:154] [INFO] Initializing ClassServer
+[2015-10-08 11:38:41:238] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 11:38:41:280] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 11:42:36:794] [INFO] Initializing ClassServer
+[2015-10-08 11:42:36:874] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 11:42:36:915] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:14:15:223] [INFO] Initializing ClassServer
+[2015-10-08 12:14:15:310] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:14:15:349] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:15:01:100] [INFO] Initializing ClassServer
+[2015-10-08 12:15:01:192] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:15:01:235] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:17:28:567] [INFO] Initializing ClassServer
+[2015-10-08 12:17:28:655] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:17:28:693] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:20:46:903] [INFO] Initializing ClassServer
+[2015-10-08 12:20:46:990] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:20:47:033] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:22:43:257] [INFO] Initializing ClassServer
+[2015-10-08 12:22:43:349] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:22:43:394] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:24:18:480] [INFO] Initializing ClassServer
+[2015-10-08 12:24:18:539] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:24:18:564] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:27:12:753] [INFO] Initializing ClassServer
+[2015-10-08 12:27:12:842] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:27:12:884] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 12:27:36:315] [INFO] Initializing ClassServer
+[2015-10-08 12:27:36:420] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 12:27:36:452] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:01:28:282] [INFO] Initializing ClassServer
+[2015-10-08 13:01:28:407] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:01:28:443] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:05:38:696] [INFO] Initializing ClassServer
+[2015-10-08 13:05:38:785] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:05:38:829] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:09:37:565] [INFO] Initializing ClassServer
+[2015-10-08 13:09:37:656] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:09:37:700] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:10:06:354] [INFO] Initializing ClassServer
+[2015-10-08 13:10:06:437] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:10:06:478] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:11:51:295] [INFO] Initializing ClassServer
+[2015-10-08 13:11:51:376] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:11:51:402] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:14:13:966] [INFO] Initializing ClassServer
+[2015-10-08 13:14:14:053] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:14:14:096] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:21:55:149] [INFO] Initializing ClassServer
+[2015-10-08 13:21:55:232] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:21:55:270] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:22:34:265] [INFO] Initializing ClassServer
+[2015-10-08 13:22:34:350] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:22:34:391] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:23:50:156] [INFO] Initializing ClassServer
+[2015-10-08 13:23:50:224] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:23:50:260] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:25:06:445] [INFO] Initializing ClassServer
+[2015-10-08 13:25:06:537] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:25:06:580] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:31:13:561] [INFO] Initializing ClassServer
+[2015-10-08 13:31:13:649] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:31:13:692] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 13:33:00:732] [INFO] Initializing ClassServer
+[2015-10-08 13:33:00:823] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 13:33:00:868] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 14:44:12:304] [INFO] Initializing ClassServer
+[2015-10-08 14:44:12:395] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:44:12:438] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:44:12:460] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+            ;; The variable to be bound
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode $size")
+                (VariableNode $distance)
+            )
+            (ImplicationLink
+                ;; The pattern to be searched for
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_171764")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode $size")
+                            (VariableNode $distance)
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_171764")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode $size")
+                    (VariableNode $distance)
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7fe0b7cc56a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fe0b7cc5842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7fe0b7cbaae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7fe0b7cbabba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7fe0b7cbacd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (úd∫‡ +0x37f2) [0x7fe0b40987f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7fe0b40988ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏ód∫‡ +0x5763) [0x7fe0b409a763]
+	10: /usr/bin/python2.7 (∏ód∫‡ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏ód∫‡ +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏ód∫‡ +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏ód∫‡ +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏ód∫‡ +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏ód∫‡ +0xf5) [0x7fe0ba2acec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:46:09:567] [INFO] Initializing ClassServer
+[2015-10-08 14:46:09:654] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:46:09:697] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:46:09:720] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+            ;; The variable to be bound
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode $size")
+                (VariableNode $distance)
+            )
+            (ImplicationLink
+                ;; The pattern to be searched for
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_176466")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode $size")
+                            (VariableNode $distance)
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_176466")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode $size")
+                    (VariableNode $distance)
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7eff1b8f86a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7eff1b8f8842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7eff1b8edae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7eff1b8edbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7eff1b8edcd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (à 'ˇ~ +0x37f2) [0x7eff17ccb7f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7eff17ccb8ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏«'ˇ~ +0x5763) [0x7eff17ccd763]
+	10: /usr/bin/python2.7 (∏«'ˇ~ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏«'ˇ~ +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏«'ˇ~ +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏«'ˇ~ +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏«'ˇ~ +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏«'ˇ~ +0xf5) [0x7eff1dedfec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:47:04:866] [INFO] Initializing ClassServer
+[2015-10-08 14:47:04:954] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:47:04:998] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:47:15:036] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+            ;; The variable to be bound
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode $size")
+                (VariableNode $distance)
+            )
+            (ImplicationLink
+                ;; The pattern to be searched for
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_178687")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode $size")
+                            (VariableNode $distance)
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_178687")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode $size")
+                    (VariableNode $distance)
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f48bb9476a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f48bb947842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f48bb93cae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f48bb93cbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f48bb93ccd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (àπ,æH +0x37f2) [0x7f48b7d1a7f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f48b7d1a8ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏∑,æH +0x5763) [0x7f48b7d1c763]
+	10: /usr/bin/python2.7 (∏∑,æH +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏∑,æH +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏∑,æH +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏∑,æH +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏∑,æH +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏∑,æH +0xf5) [0x7f48bdf2eec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:48:03:468] [INFO] Initializing ClassServer
+[2015-10-08 14:48:03:549] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:48:03:582] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:48:13:605] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+            ;; The variable to be bound
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode $size")
+                (VariableNode $distance)
+            )
+            (ImplicationLink
+                ;; The pattern to be searched for
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_181039")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode "$size")
+                            (VariableNode "$distance")
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_181039")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode "$size")
+                    (VariableNode "$distance")
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f4978ae56a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f4978ae5842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f4978adaae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f4978adabba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f4978adacd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (öF{I +0x37f2) [0x7f4974eb87f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f4974eb88ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (öF{I +0x5763) [0x7f4974eba763]
+	10: /usr/bin/python2.7 (öF{I +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (öF{I +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (öF{I +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (öF{I +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (öF{I +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (öF{I +0xf5) [0x7f497b0ccec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:49:39:589] [INFO] Initializing ClassServer
+[2015-10-08 14:49:39:680] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:49:39:724] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:49:39:741] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode $size")
+                (VariableNode $distance)
+            )
+            (ImplicationLink
+
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_184900")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode "$size")
+                            (VariableNode "$distance")
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_184900")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode "$size")
+                    (VariableNode "$distance")
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f9982e006a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9982e00842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f9982df5ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f9982df5bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f9982df5cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏GxÖô +0x37f2) [0x7f997f1d37f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f997f1d38ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏GxÖô +0x5763) [0x7f997f1d5763]
+	10: /usr/bin/python2.7 (∏GxÖô +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏GxÖô +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏GxÖô +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏GxÖô +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏GxÖô +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏GxÖô +0xf5) [0x7f99853e7ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:50:33:282] [INFO] Initializing ClassServer
+[2015-10-08 14:50:33:373] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:50:33:417] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:50:33:454] [ERROR] Scheme: Syntax error in input: '
+    (define get-objs-with-attributes
+        (BindLink
+
+            (VariableList
+                (VariableNode "$object")
+                (VariableNode "$type")
+                (VariableNode "$subtype")
+                (VariableNode "$color")
+                (VariableNode "$size")
+                (VariableNode "$distance)
+            )
+            (ImplicationLink
+
+                (EvaluationLink
+                    (PredicateNode "ObjectAttributesInFrame")
+                        (ListLink
+                            (VariableNode "$object")
+                            (ConceptNode   "Frame_187057")
+                            (VariableNode "$type")
+                            (VariableNode "$subtype")
+                            (VariableNode "$color")
+                            (VariableNode "$size")
+                            (VariableNode "$distance")
+                        )
+                )
+                (ListLink
+                    (VariableNode "$object")
+                    (ConceptNode   "Frame_187057")
+                    (VariableNode "$type")
+                    (VariableNode "$subtype")
+                    (VariableNode "$color")
+                    (VariableNode "$size")
+                    (VariableNode "$distance")
+                )
+            )
+        )
+    )
+    ' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f79eba376a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f79eba37842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f79eba2cae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f79eba2cbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f79eba2ccd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (»ª;Óy +0x37f2) [0x7f79e3dfa7f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f79e3dfa8ae]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏∑;Óy +0x5763) [0x7f79e3dfc763]
+	10: /usr/bin/python2.7 (∏∑;Óy +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏∑;Óy +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏∑;Óy +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏∑;Óy +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏∑;Óy +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏∑;Óy +0xf5) [0x7f79ee01eec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:52:19:521] [INFO] Initializing ClassServer
+[2015-10-08 14:52:19:609] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:52:19:653] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:52:19:665] [ERROR] Scheme: Syntax error in input: '(cog-bind get-objs-with-attributes' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7feb9e1086a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7feb9e108842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7feb9e0fdae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7feb9e0fdbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7feb9e0fdcd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (»»®†Î +0x37f2) [0x7feb9a4db7f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7feb9a4db855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (»»®†Î +0x4044) [0x7feb9a4dc044]
+	10: /usr/bin/python2.7 (»»®†Î +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (»»®†Î +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (»»®†Î +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (»»®†Î +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (»»®†Î +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (»»®†Î +0xf5) [0x7feba06efec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 14:56:06:073] [INFO] Initializing ClassServer
+[2015-10-08 14:56:06:164] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:56:06:208] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 14:57:03:927] [INFO] Initializing ClassServer
+[2015-10-08 14:57:04:017] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 14:57:04:058] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 14:57:04:091] [ERROR] Scheme: Syntax error in input: '(cog-bind get-objs-with-attributes' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7fc9a96846a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fc9a9684842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7fc9a9679ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7fc9a9679bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7fc9a9679cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏á +0x37f2) [0x7fc9a5a577f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7fc9a5a57855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏á +0x4044) [0x7fc9a5a58044]
+	10: /usr/bin/python2.7 (∏á +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏á +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏á +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏á +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏á +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏á +0xf5) [0x7fc9abc6bec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:00:53:319] [INFO] Initializing ClassServer
+[2015-10-08 15:00:53:411] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:00:53:451] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:00:53:474] [ERROR] Scheme: Syntax error in input: '(cog-bind get-objs-with-attributes' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7fd88c3be6a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fd88c3be842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7fd88c3b3ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7fd88c3b3bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7fd88c3b3cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (H)‘éÿ +0x37f2) [0x7fd8887917f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7fd888791855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏'‘éÿ +0x4044) [0x7fd888792044]
+	10: /usr/bin/python2.7 (∏'‘éÿ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏'‘éÿ +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏'‘éÿ +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏'‘éÿ +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏'‘éÿ +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏'‘éÿ +0xf5) [0x7fd88e9a5ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:13:14:804] [INFO] Initializing ClassServer
+[2015-10-08 15:13:14:896] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:13:14:940] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:13:24:962] [ERROR] Scheme: Syntax error in input: '(cog-bind get-objs-with-attributes' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:41)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7fbf0d0826a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fbf0d082842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7fbf0d077ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7fbf0d077bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7fbf0d077cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏g†ø +0x37f2) [0x7fbf094557f2]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7fbf09455855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏g†ø +0x4044) [0x7fbf09456044]
+	10: /usr/bin/python2.7 (∏g†ø +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏g†ø +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏g†ø +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏g†ø +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏g†ø +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏g†ø +0xf5) [0x7fbf0f669ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:13:55:900] [INFO] Initializing ClassServer
+[2015-10-08 15:13:55:995] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:13:56:033] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:14:06:072] [ERROR] Scheme: Failed to execute '(cog-bind get-objs-with-attributes)' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:36)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f2d2fa906a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f2d2fa90842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f2d2fa85ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f2d2fa85bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f2d2fa85cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so ((IA2- +0x37b3) [0x7f2d27dfa7b3]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7f2d27dfa855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (ÿLA2- +0x4044) [0x7f2d27dfb044]
+	10: /usr/bin/python2.7 (ÿLA2- +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (ÿLA2- +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (ÿLA2- +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (ÿLA2- +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (ÿLA2- +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (ÿLA2- +0xf5) [0x7f2d32077ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:16:19:432] [INFO] Initializing ClassServer
+[2015-10-08 15:16:19:519] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:16:19:563] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:16:29:601] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 12 [catch #t #<catch-closure 1f10620> ...]
+In unknown file:
+   ?: 11 [apply-smob/1 #<catch-closure 1f10620>]
+In ice-9/boot-9.scm:
+ 157: 10 [catch #t #<catch-closure 1f10500> ...]
+In unknown file:
+   ?: 9 [apply-smob/1 #<catch-closure 1f10500>]
+   ?: 8 [call-with-input-string "(cog-bind get-objs-with-attributes)" ...]
+In ice-9/boot-9.scm:
+2320: 7 [save-module-excursion #<procedure 20231b0 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 6 [read-and-eval #<input: string 1d87820> #:lang ...]
+  37: 5 [lp (cog-bind get-objs-with-attributes)]
+In ice-9/eval.scm:
+ 386: 4 [eval #<memoized (cog-bind get-objs-with-attributes)> ()]
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # 1b3cc60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 202d9c0 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 1f104c0> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f1128af06a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f1128af0842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f1128ae5ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f1128ae5bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f1128ae5cd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7f1124837282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7f1124ec38a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏KG+ +0x5763) [0x7f1124ec5763]
+	10: /usr/bin/python2.7 (∏KG+ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏KG+ +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏KG+ +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏KG+ +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏KG+ +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏KG+ +0xf5) [0x7f112b0d7ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:18:48:208] [INFO] Initializing ClassServer
+[2015-10-08 15:18:48:299] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:18:48:344] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:18:58:381] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 12 [catch #t #<catch-closure 1d1e220> ...]
+In unknown file:
+   ?: 11 [apply-smob/1 #<catch-closure 1d1e220>]
+In ice-9/boot-9.scm:
+ 157: 10 [catch #t #<catch-closure 1d23a00> ...]
+In unknown file:
+   ?: 9 [apply-smob/1 #<catch-closure 1d23a00>]
+   ?: 8 [call-with-input-string "(cog-bind get-objs-with-attributes)" ...]
+In ice-9/boot-9.scm:
+2320: 7 [save-module-excursion #<procedure 1dc0ed0 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 6 [read-and-eval #<input: string 1b9c820> #:lang ...]
+  37: 5 [lp (cog-bind get-objs-with-attributes)]
+In ice-9/eval.scm:
+ 386: 4 [eval #<memoized (cog-bind get-objs-with-attributes)> ()]
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # 1955c60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 1d057c0 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 1d23920> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f224c19b6a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f224c19b842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f224c190ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f224c190bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f224c190cd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7f2243de2282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7f224856e8a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏˚±N" +0x5763) [0x7f2248570763]
+	10: /usr/bin/python2.7 (∏˚±N" +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (∏˚±N" +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (∏˚±N" +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (∏˚±N" +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (∏˚±N" +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (∏˚±N" +0xf5) [0x7f224e782ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:20:38:446] [INFO] Initializing ClassServer
+[2015-10-08 15:20:38:543] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:20:38:588] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:20:40:632] [ERROR] Scheme: Failed to execute 'cog-bind' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:36)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f5056f206a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f5056f20842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f5056f15ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f5056f15bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f5056f15cd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (ËJäYP +0x37b3) [0x7f50532f37b3]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7f50532f3855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (®LäYP +0x4044) [0x7f50532f4044]
+	10: /usr/bin/python2.7 (®LäYP +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (®LäYP +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (®LäYP +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (®LäYP +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (®LäYP +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (®LäYP +0xf5) [0x7f5059507ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:21:07:639] [INFO] Initializing ClassServer
+[2015-10-08 15:21:07:727] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:21:07:770] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:21:09:826] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 11 [catch #t #<catch-closure 1ace360> ...]
+In unknown file:
+   ?: 10 [apply-smob/1 #<catch-closure 1ace360>]
+In ice-9/boot-9.scm:
+ 157: 9 [catch #t #<catch-closure 1ad1dc0> ...]
+In unknown file:
+   ?: 8 [apply-smob/1 #<catch-closure 1ad1dc0>]
+   ?: 7 [call-with-input-string "cog-bind" ...]
+In ice-9/boot-9.scm:
+2320: 6 [save-module-excursion #<procedure 1c7f330 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 5 [read-and-eval #<input: string 19ae820> #:lang ...]
+  37: 4 [lp cog-bind]
+In ice-9/eval.scm:
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # 1762c60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 1ca09c0 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 1ad1d60> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7efe6f0296a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7efe6f029842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7efe6f01eae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7efe6f01ebba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7efe6f01ecd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7efe6ad70282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7efe6b3fc8a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (Ÿöq˛~ +0x5763) [0x7efe6b3fe763]
+	10: /usr/bin/python2.7 (Ÿöq˛~ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (Ÿöq˛~ +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (Ÿöq˛~ +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (Ÿöq˛~ +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (Ÿöq˛~ +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (Ÿöq˛~ +0xf5) [0x7efe71610ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:27:01:142] [INFO] Initializing ClassServer
+[2015-10-08 15:27:01:234] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:27:01:273] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:27:03:305] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 11 [catch #t #<catch-closure 1949480> ...]
+In unknown file:
+   ?: 10 [apply-smob/1 #<catch-closure 1949480>]
+In ice-9/boot-9.scm:
+ 157: 9 [catch #t #<catch-closure 1949120> ...]
+In unknown file:
+   ?: 8 [apply-smob/1 #<catch-closure 1949120>]
+   ?: 7 [call-with-input-string "cog-bind" ...]
+In ice-9/boot-9.scm:
+2320: 6 [save-module-excursion #<procedure 1b29540 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 5 [read-and-eval #<input: string 1839820> #:lang ...]
+  37: 4 [lp cog-bind]
+In ice-9/eval.scm:
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # 15eac60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 19ba740 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 1949040> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f3f643c46a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f3f643c4842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f3f643b9ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f3f643b9bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f3f643b9cd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7f3f6010b282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7f3f607978a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (xã‘f? +0x5763) [0x7f3f60799763]
+	10: /usr/bin/python2.7 (xã‘f? +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (xã‘f? +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (xã‘f? +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (xã‘f? +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (xã‘f? +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (xã‘f? +0xf5) [0x7f3f669abec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:27:36:172] [INFO] Initializing ClassServer
+[2015-10-08 15:27:36:262] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:27:36:307] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:27:38:338] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 11 [catch #t #<catch-closure 11b4660> ...]
+In unknown file:
+   ?: 10 [apply-smob/1 #<catch-closure 11b4660>]
+In ice-9/boot-9.scm:
+ 157: 9 [catch #t #<catch-closure 11b43e0> ...]
+In unknown file:
+   ?: 8 [apply-smob/1 #<catch-closure 11b43e0>]
+   ?: 7 [call-with-input-string "cog-bind" ...]
+In ice-9/boot-9.scm:
+2320: 6 [save-module-excursion #<procedure 12a3210 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 5 [read-and-eval #<input: string 1014820> #:lang ...]
+  37: 4 [lp cog-bind]
+In ice-9/eval.scm:
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # dc8c60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 12a2e40 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 11b43a0> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f4478f706a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f4478f70842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f4478f65ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f4478f65bba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f4478f65cd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7f4474cb7282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7f44753438a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (hKè{D +0x5763) [0x7f4475345763]
+	10: /usr/bin/python2.7 (hKè{D +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (hKè{D +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (hKè{D +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (hKè{D +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (hKè{D +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (hKè{D +0xf5) [0x7f447b557ec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:28:06:714] [INFO] Initializing ClassServer
+[2015-10-08 15:28:06:803] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:28:06:846] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-08 15:28:08:893] [ERROR] Backtrace:
+In ice-9/boot-9.scm:
+ 157: 11 [catch #t #<catch-closure 2c7d3e0> ...]
+In unknown file:
+   ?: 10 [apply-smob/1 #<catch-closure 2c7d3e0>]
+In ice-9/boot-9.scm:
+ 157: 9 [catch #t #<catch-closure 2c7d2c0> ...]
+In unknown file:
+   ?: 8 [apply-smob/1 #<catch-closure 2c7d2c0>]
+   ?: 7 [call-with-input-string "cog-bind" ...]
+In ice-9/boot-9.scm:
+2320: 6 [save-module-excursion #<procedure 2ce9e70 at ice-9/eval-string.scm:65:9 ()>]
+In ice-9/eval-string.scm:
+  44: 5 [read-and-eval #<input: string 2ad8820> #:lang ...]
+  37: 4 [lp cog-bind]
+In ice-9/eval.scm:
+ 393: 3 [eval #<memoized cog-bind> ()]
+In unknown file:
+   ?: 2 [memoize-variable-access! #<memoized cog-bind> #<directory # 288dc60>]
+In ice-9/boot-9.scm:
+ 102: 1 [#<procedure 2d463c0 at ice-9/boot-9.scm:97:6 (thrown-k . args)> unbound-variable ...]
+In unknown file:
+   ?: 0 [apply-smob/1 #<catch-closure 2c7d280> unbound-variable ...]
+
+ERROR: In procedure apply-smob/1:
+ERROR: Unbound variable: cog-bind
+ABORT: unbound-variable
+ (/home/jimrutt/atomspace/opencog/guile/SchemeEval.cc:885)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f8ef72456a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f8ef7245842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f8ef723aae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f8ef723abba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f8ef723acd4]
+	7: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_h(std::string const&) +0xe2) [0x7f8ef2f8c282]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme_h(opencog::AtomSpace&, std::string const&) +0x23) [0x7f8ef36188a3]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (»òº˘é +0x5763) [0x7f8ef361a763]
+	10: /usr/bin/python2.7 (»òº˘é +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (»òº˘é +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (»òº˘é +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (»òº˘é +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (»òº˘é +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (»òº˘é +0xf5) [0x7f8ef982cec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-08 15:35:25:925] [INFO] Initializing ClassServer
+[2015-10-08 15:35:26:015] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:35:26:059] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:36:43:639] [INFO] Initializing ClassServer
+[2015-10-08 15:36:43:731] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:36:43:773] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:37:19:473] [INFO] Initializing ClassServer
+[2015-10-08 15:37:19:555] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:37:19:595] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:37:49:609] [INFO] Initializing ClassServer
+[2015-10-08 15:37:49:699] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:37:49:743] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:39:26:183] [INFO] Initializing ClassServer
+[2015-10-08 15:39:26:280] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:39:26:345] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:41:41:327] [INFO] Initializing ClassServer
+[2015-10-08 15:41:41:418] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:41:41:462] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:42:08:682] [INFO] Initializing ClassServer
+[2015-10-08 15:42:08:774] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:42:08:817] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:45:02:932] [INFO] Initializing ClassServer
+[2015-10-08 15:45:03:023] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:45:03:066] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:46:47:893] [INFO] Initializing ClassServer
+[2015-10-08 15:46:47:980] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:46:48:016] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:50:02:753] [INFO] Initializing ClassServer
+[2015-10-08 15:50:02:844] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:50:02:887] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 15:57:03:939] [INFO] Initializing ClassServer
+[2015-10-08 15:57:04:031] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 15:57:04:074] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:01:00:438] [INFO] Initializing ClassServer
+[2015-10-08 16:01:00:536] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:01:00:579] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:01:52:382] [INFO] Initializing ClassServer
+[2015-10-08 16:01:52:470] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:01:52:513] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:02:28:967] [INFO] Initializing ClassServer
+[2015-10-08 16:02:29:054] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:02:29:097] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:04:46:348] [INFO] Initializing ClassServer
+[2015-10-08 16:04:46:440] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:04:46:480] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:05:54:295] [INFO] Initializing ClassServer
+[2015-10-08 16:05:54:385] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:05:54:429] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 16:07:55:235] [INFO] Initializing ClassServer
+[2015-10-08 16:07:55:322] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 16:07:55:358] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-08 19:49:51:293] [INFO] Initializing ClassServer
+[2015-10-08 19:49:51:560] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-08 19:49:51:602] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 13:52:33:110] [INFO] Initializing ClassServer
+[INFO] Using config file found at: 
+[2015-10-09 13:53:05:323] [INFO] Initializing ClassServer
+[2015-10-09 13:53:05:416] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 13:53:05:459] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 13:53:55:948] [INFO] Initializing ClassServer
+[2015-10-09 13:53:56:034] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 13:53:56:075] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 19:55:08:625] [INFO] Initializing ClassServer
+[2015-10-09 19:55:08:716] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 19:55:08:762] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 19:56:54:996] [INFO] Initializing ClassServer
+[2015-10-09 19:56:55:051] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 19:56:55:082] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-09 19:56:55:120] [INFO] Python 'sys.path' after OpenCog config adds is: ['/home/jimrutt/PycharmProjects/AIDeerProto-001-opencog', '/home/jimrutt/atomspace/build/opencog/cython', '/home/jimrutt/PycharmProjects/AIDeerProto-001-opencog', '/usr/lib/python2.7', '/usr/lib/python2.7/plat-x86_64-linux-gnu', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload', '/usr/local/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages/PILcompat', '/usr/lib/python2.7/dist-packages/gtk-2.0', '/usr/lib/pymodules/python2.7', '/usr/lib/python2.7/dist-packages/ubuntu-sso-client', '/usr/local/share/opencog/python', '/usr/local/share/opencog/python', '/usr/share/opencog/python']
+[2015-10-09 19:56:55:120] [INFO] PythonEval::initialize_python_objects_and_imports Finished initialising python evaluator.
+[2015-10-09 19:56:55:120] [ERROR] Python module for 'test_functions.calcAttention' not found!
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f6b31b476a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f6b31b47842]
+	4: /home/jimrutt/atomspace/build/opencog/cython/libPythonEval.so (opencog::PythonEval::call_user_function(std::string const&, opencog::Handle) +0x807) [0x7f6b2d448987]
+	5: /home/jimrutt/atomspace/build/opencog/cython/libPythonEval.so (opencog::PythonEval::apply(opencog::AtomSpace*, std::string const&, opencog::Handle) +0x88) [0x7f6b2d448b78]
+	6: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::ExecutionOutputLink::do_execute(opencog::AtomSpace*, opencog::Handle const&, opencog::Handle const&) +0xb54) [0x7f6b2dab9d04]
+	7: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::ExecutionOutputLink::execute(opencog::AtomSpace*) const +0x1d) [0x7f6b2daba76d]
+	8: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::Instantiator::walk_tree(opencog::Handle const&) +0xfb1) [0x7f6b2dabbe41]
+	9: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::Instantiator::instantiate(opencog::Handle const&, std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&) +0x37) [0x7f6b2dabca37]
+	10: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::Implicator::grounding(std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&, std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&) +0x21) [0x7f6b2dce2931]
+	11: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::do_next_clause() +0x43f) [0x7f6b2dcf842f]
+	12: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::do_term_up(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x24e) [0x7f6b2dcf89fe]
+	13: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_single_branch(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x4b) [0x7f6b2dcf787b]
+	14: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_choice_branches(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x73) [0x7f6b2dcf7933]
+	15: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_link_branches(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0xe3) [0x7f6b2dcf7c83]
+	16: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_term_branches(opencog::Handle const&, opencog::Handle const&, opencog::Handle const&) +0x13a) [0x7f6b2dcf7eda]
+	17: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::InitiateSearchCB::neighbor_search(opencog::PatternMatchEngine*) +0x176) [0x7f6b2dce76b6]
+	18: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::InitiateSearchCB::initiate_search(opencog::PatternMatchEngine*) +0x22) [0x7f6b2dce9f32]
+	19: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternLink::satisfy(opencog::PatternMatchCallback&) const +0x10f1) [0x7f6b2dcef3e1]
+	20: /home/jimrutt/atomspace/build/opencog/query/libquery.so (¯πL4k +0x1fb8e) [0x7f6b2dce2b8e]
+	21: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::bindlink(opencog::AtomSpace*, opencog::Handle const&) +0x16c) [0x7f6b2dce464c]
+	22: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::FunctionWrap::wrapper(opencog::Handle) +0x22) [0x7f6b2d8909a2]
+	23: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemePrimitive<opencog::FunctionWrap>::invoke(scm_unused_struct*) +0x293f) [0x7f6b2d89376f]
+	24: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::PrimitiveEnviron::do_call(scm_unused_struct*, scm_unused_struct*) +0x24) [0x7f6b2d896354]
+	25: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	26: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x27) [0x7f6b2d11e747]
+	27: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	28: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x2e) [0x7f6b2d11e81e]
+	29: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	30: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x33) [0x7f6b2d11e863]
+	31: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::do_eval(std::string const&) +0xc1) [0x7f6b2d88d891]
+	32: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::c_wrap_eval(void*) +0x33) [0x7f6b2d88d9b3]
+	33: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x5b2ca) [0x7f6b2d1152ca]
+	34: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	35: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x33) [0x7f6b2d11e863]
+	36: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x5b9ff) [0x7f6b2d1159ff]
+	37: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x35) [0x7f6b2d115a95]
+	38: /usr/lib/x86_64-linux-gnu/libgc.so.1 (∏∑L4k +0x60) [0x7f6b2ce6c950]
+	39: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xd47d1) [0x7f6b2d18e7d1]
+	40: /usr/lib/x86_64-linux-gnu/libgc.so.1 (∏∑L4k +0x12) [0x7f6b2ce66fe2]
+	41: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x28) [0x7f6b2d18eb48]
+	42: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_expr(std::string const&) +0x2e) [0x7f6b2d88d95e]
+	43: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f6b2df1a83e]
+	44: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏∑L4k +0x4044) [0x7f6b2df1b044]
+	45: /usr/bin/python2.7 (∏∑L4k +0x40d) [0x49968d]
+	46: /usr/bin/python2.7 (∏∑L4k +0xc72) [0x499ef2]
+	47: /usr/bin/python2.7() [0x4a1634]
+	48: /usr/bin/python2.7 (∏∑L4k +0x92) [0x44e4a5]
+	49: /usr/bin/python2.7 (∏∑L4k +0x2ee) [0x44ec9f]
+
+[2015-10-09 19:56:55:141] [ERROR] Python module for 'test_functions.calcAttention' not found! (/home/jimrutt/atomspace/opencog/cython/PythonEval.cc:689)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f6b31b476a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f6b31b47842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f6b31b3cae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f6b31b3cbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f6b31b3ccd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/libPythonEval.so (opencog::PythonEval::call_user_function(std::string const&, opencog::Handle) +0x82f) [0x7f6b2d4489af]
+	8: /home/jimrutt/atomspace/build/opencog/cython/libPythonEval.so (opencog::PythonEval::apply(opencog::AtomSpace*, std::string const&, opencog::Handle) +0x88) [0x7f6b2d448b78]
+	9: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::ExecutionOutputLink::do_execute(opencog::AtomSpace*, opencog::Handle const&, opencog::Handle const&) +0xb54) [0x7f6b2dab9d04]
+	10: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::ExecutionOutputLink::execute(opencog::AtomSpace*) const +0x1d) [0x7f6b2daba76d]
+	11: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::Instantiator::walk_tree(opencog::Handle const&) +0xfb1) [0x7f6b2dabbe41]
+	12: /home/jimrutt/atomspace/build/opencog/atoms/execution/libexecution.so (opencog::Instantiator::instantiate(opencog::Handle const&, std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&) +0x37) [0x7f6b2dabca37]
+	13: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::Implicator::grounding(std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&, std::map<opencog::Handle, opencog::Handle, std::less<opencog::Handle>, std::allocator<std::pair<opencog::Handle const, opencog::Handle> > > const&) +0x21) [0x7f6b2dce2931]
+	14: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::do_next_clause() +0x43f) [0x7f6b2dcf842f]
+	15: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::do_term_up(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x24e) [0x7f6b2dcf89fe]
+	16: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_single_branch(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x4b) [0x7f6b2dcf787b]
+	17: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_choice_branches(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0x73) [0x7f6b2dcf7933]
+	18: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_link_branches(std::shared_ptr<opencog::PatternTerm> const&, opencog::Handle const&, opencog::Handle const&) +0xe3) [0x7f6b2dcf7c83]
+	19: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternMatchEngine::explore_term_branches(opencog::Handle const&, opencog::Handle const&, opencog::Handle const&) +0x13a) [0x7f6b2dcf7eda]
+	20: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::InitiateSearchCB::neighbor_search(opencog::PatternMatchEngine*) +0x176) [0x7f6b2dce76b6]
+	21: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::InitiateSearchCB::initiate_search(opencog::PatternMatchEngine*) +0x22) [0x7f6b2dce9f32]
+	22: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::PatternLink::satisfy(opencog::PatternMatchCallback&) const +0x10f1) [0x7f6b2dcef3e1]
+	23: /home/jimrutt/atomspace/build/opencog/query/libquery.so (∏∑L4k +0x1fb8e) [0x7f6b2dce2b8e]
+	24: /home/jimrutt/atomspace/build/opencog/query/libquery.so (opencog::bindlink(opencog::AtomSpace*, opencog::Handle const&) +0x16c) [0x7f6b2dce464c]
+	25: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::FunctionWrap::wrapper(opencog::Handle) +0x22) [0x7f6b2d8909a2]
+	26: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemePrimitive<opencog::FunctionWrap>::invoke(scm_unused_struct*) +0x293f) [0x7f6b2d89376f]
+	27: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::PrimitiveEnviron::do_call(scm_unused_struct*, scm_unused_struct*) +0x24) [0x7f6b2d896354]
+	28: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	29: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x27) [0x7f6b2d11e747]
+	30: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	31: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x2e) [0x7f6b2d11e81e]
+	32: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	33: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x33) [0x7f6b2d11e863]
+	34: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::do_eval(std::string const&) +0xc1) [0x7f6b2d88d891]
+	35: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::c_wrap_eval(void*) +0x33) [0x7f6b2d88d9b3]
+	36: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x5b2ca) [0x7f6b2d1152ca]
+	37: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xecc00) [0x7f6b2d1a6c00]
+	38: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x33) [0x7f6b2d11e863]
+	39: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x5b9ff) [0x7f6b2d1159ff]
+	40: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x35) [0x7f6b2d115a95]
+	41: /usr/lib/x86_64-linux-gnu/libgc.so.1 (∏∑L4k +0x60) [0x7f6b2ce6c950]
+	42: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0xd47d1) [0x7f6b2d18e7d1]
+	43: /usr/lib/x86_64-linux-gnu/libgc.so.1 (∏∑L4k +0x12) [0x7f6b2ce66fe2]
+	44: /usr/lib/libguile-2.0.so.22 (∏∑L4k +0x28) [0x7f6b2d18eb48]
+	45: /home/jimrutt/atomspace/build/opencog/guile/libsmob.so (opencog::SchemeEval::eval_expr(std::string const&) +0x2e) [0x7f6b2d88d95e]
+	46: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x2e) [0x7f6b2df1a83e]
+	47: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (∏∑L4k +0x4044) [0x7f6b2df1b044]
+	48: /usr/bin/python2.7 (∏∑L4k +0x40d) [0x49968d]
+	49: /usr/bin/python2.7 (∏∑L4k +0xc72) [0x499ef2]
+
+[2015-10-09 19:56:55:163] [INFO] Guile caught C++ exception: Python module for 'test_functions.calcAttention' not found! (/home/jimrutt/atomspace/opencog/cython/PythonEval.cc:689)
+[2015-10-09 19:56:55:173] [ERROR] Scheme: Failed to execute '(cog-bind get-objs-with-attributes)' (/home/jimrutt/atomspace/opencog/cython/opencog/PyScheme.cc:36)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7f6b31b476a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f6b31b47842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7f6b31b3cae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7f6b31b3cbba]
+	6: /usr/local/lib/libcogutil.so (opencog::RuntimeException::RuntimeException(char const*, char const*, ...) +0xb4) [0x7f6b31b3ccd4]
+	7: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (8πL4k +0x37b3) [0x7f6b2df1a7b3]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (opencog::eval_scheme(opencog::AtomSpace&, std::string const&) +0x45) [0x7f6b2df1a855]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/scheme_wrapper.so (8πL4k +0x4044) [0x7f6b2df1b044]
+	10: /usr/bin/python2.7 (8πL4k +0x40d) [0x49968d]
+	11: /usr/bin/python2.7 (8πL4k +0xc72) [0x499ef2]
+	12: /usr/bin/python2.7() [0x4a1634]
+	13: /usr/bin/python2.7 (8πL4k +0x92) [0x44e4a5]
+	14: /usr/bin/python2.7 (8πL4k +0x2ee) [0x44ec9f]
+	15: /usr/bin/python2.7 (8πL4k +0xb5e) [0x44f904]
+	16: /lib/x86_64-linux-gnu/libc.so.6 (8πL4k +0xf5) [0x7f6b3412eec5]
+	17: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-09 19:58:17:172] [INFO] Initializing ClassServer
+[2015-10-09 19:58:17:262] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 19:58:17:306] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 19:58:35:111] [INFO] Initializing ClassServer
+[2015-10-09 19:58:35:195] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 19:58:35:238] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[2015-10-09 19:58:35:246] [ERROR] unable to open file "/home/jimrutt/PycharmProjects/AIDeerProto-001-opencog/GSNTest.conf" (/home/jimrutt/cogutils/opencog/util/Config.cc:183)
+	Stack Trace:
+	2: /usr/local/lib/libcogutil.so (opencog::Logger::logva(opencog::Logger::Level, char const*, __va_list_tag*) +0xa7) [0x7faf523eb6a7]
+	3: /usr/local/lib/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7faf523eb842]
+	4: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, __va_list_tag*, bool) +0x63) [0x7faf523e0ae3]
+	5: /usr/local/lib/libcogutil.so (opencog::StandardException::parseErrorMessage(char const*, char const*, __va_list_tag*, bool) +0x9a) [0x7faf523e0bba]
+	6: /usr/local/lib/libcogutil.so (opencog::IOException::IOException(char const*, char const*, ...) +0xb4) [0x7faf523e0ec4]
+	7: /usr/local/lib/libcogutil.so (opencog::Config::load(char const*, bool) +0x3b5) [0x7faf523ddcd5]
+	8: /home/jimrutt/atomspace/build/opencog/cython/opencog/utilities.so (opencog::initialize_opencog(opencog::AtomSpace*, char const*) +0x5c) [0x7faf4c91936c]
+	9: /home/jimrutt/atomspace/build/opencog/cython/opencog/utilities.so (ÿ˘÷TØ +0x446e) [0x7faf4c91a46e]
+	10: /usr/bin/python2.7 (ÿ˘÷TØ +0x40d) [0x49968d]
+	11: /usr/bin/python2.7() [0x4a1634]
+	12: /usr/bin/python2.7 (ÿ˘÷TØ +0x92) [0x44e4a5]
+	13: /usr/bin/python2.7 (ÿ˘÷TØ +0x2ee) [0x44ec9f]
+	14: /usr/bin/python2.7 (ÿ˘÷TØ +0xb5e) [0x44f904]
+	15: /lib/x86_64-linux-gnu/libc.so.6 (ÿ˘÷TØ +0xf5) [0x7faf549d2ec5]
+	16: /usr/bin/python2.7() [0x578c4e]
+
+[INFO] Using config file found at: 
+[2015-10-09 19:59:43:646] [INFO] Initializing ClassServer
+[2015-10-09 19:59:43:737] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 19:59:43:780] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:01:20:938] [INFO] Initializing ClassServer
+[2015-10-09 20:01:21:028] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:01:21:072] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:21:03:542] [INFO] Initializing ClassServer
+[INFO] Using config file found at: 
+[2015-10-09 20:21:39:768] [INFO] Initializing ClassServer
+[2015-10-09 20:21:39:854] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:21:39:896] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:23:32:359] [INFO] Initializing ClassServer
+[2015-10-09 20:23:32:448] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:23:32:490] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:25:15:663] [INFO] Initializing ClassServer
+[2015-10-09 20:25:15:757] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:25:15:802] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:29:47:434] [INFO] Initializing ClassServer
+[INFO] Using config file found at: 
+[2015-10-09 20:30:11:447] [INFO] Initializing ClassServer
+[2015-10-09 20:30:11:538] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:30:11:582] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:30:53:757] [INFO] Initializing ClassServer
+[2015-10-09 20:30:53:847] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:30:53:890] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:33:20:271] [INFO] Initializing ClassServer
+[2015-10-09 20:33:20:355] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:33:20:397] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:35:30:170] [INFO] Initializing ClassServer
+[2015-10-09 20:35:30:287] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:35:30:317] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:37:35:800] [INFO] Initializing ClassServer
+[2015-10-09 20:37:35:886] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:37:35:932] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:39:03:452] [INFO] Initializing ClassServer
+[INFO] Using config file found at: 
+[2015-10-09 20:39:27:526] [INFO] Initializing ClassServer
+[2015-10-09 20:39:27:617] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:39:27:660] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:40:01:575] [INFO] Initializing ClassServer
+[2015-10-09 20:40:01:665] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:40:01:706] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:40:28:572] [INFO] Initializing ClassServer
+[2015-10-09 20:40:28:659] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:40:28:697] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:48:42:065] [INFO] Initializing ClassServer
+[2015-10-09 20:48:42:157] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:48:42:200] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 20:49:58:932] [INFO] Initializing ClassServer
+[2015-10-09 20:49:59:024] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 20:49:59:068] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:02:03:916] [INFO] Initializing ClassServer
+[2015-10-09 21:02:04:004] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:02:04:040] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:04:13:855] [INFO] Initializing ClassServer
+[2015-10-09 21:04:13:947] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:04:13:991] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:05:30:202] [INFO] Initializing ClassServer
+[2015-10-09 21:05:30:294] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:05:30:339] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:05:51:743] [INFO] Initializing ClassServer
+[2015-10-09 21:05:51:832] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:05:51:867] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:06:36:276] [INFO] Initializing ClassServer
+[2015-10-09 21:06:36:364] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:06:36:407] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:08:33:792] [INFO] Initializing ClassServer
+[2015-10-09 21:08:33:876] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:08:33:919] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-09 21:09:15:568] [INFO] Initializing ClassServer
+[2015-10-09 21:09:15:635] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-09 21:09:15:671] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:20:13:025] [INFO] Initializing ClassServer
+[2015-10-10 13:20:13:116] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:20:13:160] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:22:57:471] [INFO] Initializing ClassServer
+[2015-10-10 13:22:57:563] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:22:57:604] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:31:46:146] [INFO] Initializing ClassServer
+[2015-10-10 13:31:46:239] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:31:46:283] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:32:58:704] [INFO] Initializing ClassServer
+[2015-10-10 13:32:58:781] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:32:58:816] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:34:04:554] [INFO] Initializing ClassServer
+[2015-10-10 13:34:04:628] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:34:04:666] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:36:17:161] [INFO] Initializing ClassServer
+[2015-10-10 13:36:17:238] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:36:17:278] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 13:56:45:421] [INFO] Initializing ClassServer
+[2015-10-10 13:56:45:502] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 13:56:45:543] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 14:22:27:275] [INFO] Initializing ClassServer
+[2015-10-10 14:22:27:370] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 14:22:27:416] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-10 15:11:55:674] [INFO] Initializing ClassServer
+[2015-10-10 15:11:55:763] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-10 15:11:55:807] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-12 23:12:44:110] [INFO] Initializing ClassServer
+[2015-10-12 23:12:44:248] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-12 23:12:44:299] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-13 19:14:47:901] [INFO] Initializing ClassServer
+[2015-10-13 19:14:47:991] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-13 19:14:48:035] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-13 19:17:39:963] [INFO] Initializing ClassServer
+[2015-10-13 19:17:40:055] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-13 19:17:40:098] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-16 18:20:06:778] [INFO] Initializing ClassServer
+[2015-10-16 18:20:06:866] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-16 18:20:06:909] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-16 18:22:32:010] [INFO] Initializing ClassServer
+[2015-10-16 18:22:32:100] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-16 18:22:32:145] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-16 18:59:32:378] [INFO] Initializing ClassServer
+[2015-10-16 18:59:32:470] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-16 18:59:32:514] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 13:36:15:462] [INFO] Initializing ClassServer
+[2015-10-21 13:36:15:554] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 13:36:15:599] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 13:51:42:894] [INFO] Initializing ClassServer
+[2015-10-21 13:51:42:981] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 13:51:43:017] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 14:19:40:940] [INFO] Initializing ClassServer
+[2015-10-21 14:19:41:025] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 14:19:41:063] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:00:41:106] [INFO] Initializing ClassServer
+[2015-10-21 20:00:41:199] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:00:41:243] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:01:49:591] [INFO] Initializing ClassServer
+[2015-10-21 20:01:49:681] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:01:49:726] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:01:56:297] [INFO] Initializing ClassServer
+[2015-10-21 20:03:24:396] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:03:25:584] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:06:54:088] [INFO] Initializing ClassServer
+[2015-10-21 20:06:54:180] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:06:54:227] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:09:06:165] [INFO] Initializing ClassServer
+[2015-10-21 20:09:25:697] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:09:27:054] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:10:48:210] [INFO] Initializing ClassServer
+[2015-10-21 20:10:56:931] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:10:58:054] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:15:09:530] [INFO] Initializing ClassServer
+[2015-10-21 20:15:09:619] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:15:09:663] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:20:04:710] [INFO] Initializing ClassServer
+[2015-10-21 20:20:04:796] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:20:04:839] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
+[INFO] Using config file found at: 
+[2015-10-21 20:20:48:853] [INFO] Initializing ClassServer
+[2015-10-21 20:20:48:945] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/core_types.scm
+[2015-10-21 20:20:48:987] [INFO] Loaded ../../../..//usr/local/share/opencog/scm/utilities.scm
