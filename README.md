@@ -9,4 +9,6 @@ Requires my zmqswitch to communicate with AIDeer-Unity3D:  https://github.com/me
 
 Requires my AIDeer-Unity3D:  https://github.com/memetic007/AIDeer-Unity3D
 
+Requires a command line argument the IP address of system running zmqswitch eg: python AIDeer-Opencog 10.0.0.15 
+
 Includes Project support for PyCharm Python IDE
